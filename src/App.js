@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     bisma Nazir
+     Bisma Nazirrrr
     </div>
   );
 }
