@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Bisma Nazirrrr
+     Bisma Nazirrrr Badyari
     </div>
   );
 }
